@@ -1,0 +1,23 @@
+
+ {
+  "alunos": [
+    {
+      "id": 3,
+      "nome": "teste",
+      "email": "teste@hotemail.com",
+      "curso": "Engenharia de Software"
+    },
+    {
+      "id": 4,
+      "nome": "teste",
+      "email": "teste@hotemail.com",
+      "curso": "Ciência da Computação"
+    },
+    {
+      "id": 5,
+      "nome": "TESTE",
+      "email": "teste@hotemail.com",
+      "curso": "Engenharia de Software"
+    }
+  ]
+}
